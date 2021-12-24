@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Kimberly D's Informatics Projects Site
 
-You can use the [editor on GitHub](https://github.com/Kimist99/KDD_Test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![](https://github.com/Kimist99/kimberlyd.github.io/blob/master/assets/img/healthDataSciAtGWFeb2020.jpg?raw=true)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Kimberly D 
 
-### Markdown
+Kimberly is a Chemical and Health Informaticist currently finishing her PhD in Health Informatics. She’s the co-founder of [BlackTIDES](https://blacktidesdata.com/) an organization created to support future and current Black Data Professionals and she also works as a Data Educator. Her research interests are in HIV Health Disparities using AI/Machine Learning.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+![](https://github.com/Kimist99/kimberlyd.github.io/blob/master/assets/img/chemInfopic.jpeg?raw=true)
 
-# Header 1
-## Header 2
-### Header 3
+## Data Analytics Projects / Websites
 
-- Bulleted
-- List
+- [Tableu Public](https://public.tableau.com/app/profile/kimberly.d6305)
+- [30 Days of Code - 2020](https://github.com/Kimist99/DataKimist_30_Days_Of_Code)
 
-1. Numbered
-2. List
+## License
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kimist99/KDD_Test/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+GNU General Public License v3.0
