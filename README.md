@@ -9,10 +9,11 @@ Kimberly is a Chemical and Health Informaticist currently finishing her PhD in H
 
 ![](https://github.com/Kimist99/kimberlyd.github.io/blob/master/assets/img/chemInfopic.jpeg?raw=true)
 
-## Data Analytics Projects / Websites
+## Data Analytics Projects / Websites / Contact Info
 
 - [Tableu Public](https://public.tableau.com/app/profile/kimberly.d6305)
 - [30 Days of Code - 2020](https://github.com/Kimist99/DataKimist_30_Days_Of_Code)
+- [LinkedIn](https://www.linkedin.com/in/kimberly-d-b0570737/)
 
 ## License
 
