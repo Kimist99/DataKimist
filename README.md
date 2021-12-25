@@ -15,6 +15,7 @@ Kimberly is a Chemical and Health Informaticist currently finishing her PhD in H
 - [30 Days of Code - 2020](https://github.com/Kimist99/DataKimist_30_Days_Of_Code)
 - [LinkedIn](https://www.linkedin.com/in/kimberly-d-b0570737/)
 - [Twitter](https://twitter.com/DataKimist)
+- [Gmail](Kimist99@gmail.com)
 
 ## License
 
